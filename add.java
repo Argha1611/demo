@@ -1,3 +1,3 @@
-int a = 10;
+int a = 100;
 int b = 3;
-system.out.println(a+b);
+system.out.println(a*b);
